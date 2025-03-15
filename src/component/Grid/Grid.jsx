@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Card from "../Card/Card";
-import isWinner from "../../helpers/chechWinner";
+import isWinner from "../../helpers/checkWinner";
 import './Grid.css';
 
 
